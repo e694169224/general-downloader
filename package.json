@@ -1,0 +1,23 @@
+{
+  "name": "general-downloader",
+  "version": "1.0.0",
+  "description": "general downloader",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "yin",
+  "license": "ISC",
+  "devDependencies": {
+    "eslint": "^4.15.0",
+    "eslint-config-airbnb": "^16.1.0",
+    "eslint-plugin-import": "^2.8.0",
+    "eslint-plugin-jsx-a11y": "^6.0.3",
+    "eslint-plugin-react": "^7.5.1",
+    "mocha": "^4.1.0",
+    "power-assert": "^1.4.4"
+  },
+  "dependencies": {
+    "full-icu": "^1.2.1"
+  }
+}
