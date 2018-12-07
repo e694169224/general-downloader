@@ -1,6 +1,6 @@
 {
   "name": "general-downloader",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "general downloader",
   "main": "index.js",
   "scripts": {
@@ -22,6 +22,7 @@
     "power-assert": "^1.4.4"
   },
   "dependencies": {
+    "ajv": "^6.6.1",
     "full-icu": "^1.2.1"
   }
 }
